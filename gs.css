@@ -88,3 +88,26 @@ color:blue;
 font-style: normal;
 font-weight: 100;
 }
+#singers {
+margin-top: 10px;
+margin-left:15px;
+border:1px solid blueviolet;
+border-collapse: separate;
+box-sizing:border-box;
+}
+#singers th{
+color:hotpink;
+text-align: center;
+padding:20px;
+border:1px solid purple;
+}
+#singers td{
+color:brown;
+text-align: center;
+padding: 25px;
+border-bottom: 10px;
+}
+#singers tr:nth-child(even)
+{
+background-color:lightpink;
+}
