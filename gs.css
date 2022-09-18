@@ -72,8 +72,8 @@ font-size:large;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .lisa{
-font-size: 10px;
-color:azure;
+font-size: 35px;
+color:olivedrab;
 font-style: italic;
 font-family: 'Courier New', Courier, monospace;
 }
@@ -110,4 +110,21 @@ border-bottom: 10px;
 #singers tr:nth-child(even)
 {
 background-color:lightpink;
+}
+.julia{
+color:chocolate;
+font-size:20px;
+font-family: 'Courier New', Courier, monospace;
+}
+.all{
+color:firebrick;
+font-size:15px;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+}
+.not{
+color:cornflowerblue;
+font-variant: small-caps;
+font-size:25px;
+font-family: 'Times New Roman', Times, serif;
 }
